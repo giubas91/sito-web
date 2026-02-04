@@ -1,0 +1,7 @@
+{
+  "name": "SITO WEB  ORA-V2.0",
+  "description": "sito web ",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
